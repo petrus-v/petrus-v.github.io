@@ -4,10 +4,8 @@
 title: "Pierre Verkest"
 description: "Pierre Verkest's blog, use Jekyll and github pages."
 keywords: "Pierre,Verkest,blog,Jekyll,github,gh-pages"
-
 baseurl: "/"
 url: "http://pierre.verkest.fr"
-
 header-img: img/home-bg.jpg
 email: pierreverkest84@gmail.com
 copyright_name: Pierre Verkest
@@ -25,13 +23,10 @@ highlighter: rouge
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
 gems: [jekyll-paginate, jekyll-feed, jemoji]
-
 
 # Build settings
 encoding: "utf-8"
-
 kramdown:
   input: GFM
   syntax_highlighter: rouge
