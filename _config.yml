@@ -1,0 +1,48 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: "Pierre Verkest"
+description: "Pierre Verkest's blog, use Jekyll and github pages."
+keywords: "Pierre,Verkest,blog,Jekyll,github,gh-pages"
+
+baseurl: "/"
+url: "http://pierre.verkest.fr"
+
+header-img: img/home-bg.jpg
+email: pierreverkest84@gmail.com
+copyright_name: Pierre Verkest
+twitter_username: petrusv84
+github_username:  petrus-v
+email_username:  pierreverkest84@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+google_tracking_id: UA-79880509-1
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed, jemoji]
+
+
+# Build settings
+encoding: "utf-8"
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+#
+## author
+#author:
+#  name: 'petrus-v'
+#  first_name: 'Pierre'
+#  last_name: 'Verkest'
+#  email: 'pierreverkest84@gmail.com'
+#  twitter: 'petrusv84'
+#  github_username: 'petrus-v'
+#  head_img: 'static/img/landing/Jack.jpg'

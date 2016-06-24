@@ -2,7 +2,7 @@
 
 Yeap, this is [my blog](pierre.verkest.fr) repo!
 
-I epxected to speak a few about me. Main usage will be to
+I expect to write a few about me. Main usage will be to
 write post to remind how I do things that I use
 just a litle and/or want to share!
 
