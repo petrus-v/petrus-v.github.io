@@ -4,15 +4,15 @@ keywords: "Pierre,Verkest,blog,Jekyll,github,gh-pages"
 baseurl: "/"
 url: "http://pierre.verkest.fr"
 header-img: img/home-bg.jpg
-email: pierreverkest84@gmail.com
-copyright_name: Pierre Verkest
-twitter_username: petrusv84
-github_username: petrus-v
-email_username: pierreverkest84@gmail.com
+email: "pierreverkest84@gmail.com"
+copyright_name: "Pierre Verkest"
+twitter_username: "petrusv84"
+github_username: "petrus-v"
+email_username: "pierreverkest84@gmail.com"
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-google_tracking_id: UA-79880509-1
+google_tracking_id: "UA-79880509-1"
 
 # Build settings
 markdown: kramdown
