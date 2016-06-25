@@ -1,7 +1,7 @@
 title: "Pierre Verkest"
 description: "Pierre verkest - blog"
 keywords: "Pierre,Verkest,blog,Jekyll,github,gh-pages"
-baseurl: "/"
+baseurl: ""
 url: "http://pierre.verkest.fr"
 header-img: img/home-bg.jpg
 email: "pierreverkest84@gmail.com"
