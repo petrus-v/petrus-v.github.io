@@ -3,7 +3,7 @@ description: "Pierre verkest - blog"
 keywords: "Pierre,Verkest,blog,Jekyll,github,gh-pages"
 baseurl: ""
 url: "http://pierre.verkest.fr"
-header-img: img/home-bg.jpg
+header-img: img/bg-home.jpg
 email: "pierreverkest84@gmail.com"
 copyright_name: "Pierre Verkest"
 twitter_username: "petrusv84"
