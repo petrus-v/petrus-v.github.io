@@ -1,6 +1,6 @@
-# [Pierre Verkest's Blog](pierre.verkest.fr)
+# [Pierre Verkest's Blog](http://pierre.verkest.fr)
 
-Yeap, this is [my blog](pierre.verkest.fr) repo!
+Yeap, this is [my blog](http://pierre.verkest.fr) repo!
 
 I expect to write a few about me. Main usage will be to
 write post to remind how I do things that I use
