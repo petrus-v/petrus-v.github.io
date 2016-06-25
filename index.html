@@ -17,11 +17,11 @@ description: "Pierre Verkest's Blog"
     </a>
     <p class="post-meta">
         Posted by
-        {% if post.author %}{
-            { post.author }
-        }{% else %}{
-            { site.title }
-        }{% endif %}
+        {% if post.author %}
+            {{ post.author }}
+        {% else %}
+            {{ site.title }}
+        {% endif %}
         on
         {{ post.date | date: "%B %-d, %Y"}}
     </p>
