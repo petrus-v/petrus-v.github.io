@@ -4,7 +4,7 @@ title:      "Pierre Verkest's blog creation"
 subtitle:   "Once more another blog..."
 date:       "2016-06-24"
 author:     "Pierre Verkest"
-header-img  "img/post-blog-creation.jpg"
+header-img: "img/post-blog-creation.jpg"
 ---
 
 Welcome!
