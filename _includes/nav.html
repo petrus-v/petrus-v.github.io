@@ -23,7 +23,7 @@
                 </li>
                 {% for page in site.pages %}
                     {% if page.title %}
-                        {% if page.url != '/404.html' %}
+                        {% if page.title not in ['404', 'Sitemap', 'robots'] %}
                             <li>
                                 <a href="{{ page.url | prepend: site.baseurl }}">
                                     {{page.title }}
