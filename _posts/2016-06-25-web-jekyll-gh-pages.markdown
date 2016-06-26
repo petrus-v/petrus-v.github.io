@@ -24,10 +24,8 @@ software.
 [Markdown](https://daringfireball.net/projects/markdown/) format
 and generate this static web site.
 
-Note:
-
-    There are other formats supported by *Jekyll* I'm happy with
-    *Markdown* format as I use it a lot around my *GitHub* projects.
+> **Note**: There are other formats supported by *Jekyll* I'm happy with
+> *Markdown* format as I use it a lot around my *GitHub* projects.
 
 So adding a new post is basically create a new *Markdown* file in my
 [blog repository](
@@ -45,10 +43,12 @@ build-blog-jekyll-github-pages/) I have started from an existing project
 which was hard to choose. After try a lot of site web I get this
 short list:
 
-* http://www.jack003.com/ found on http://jekyllthemes.org/
+* [Kun Jia's blog](http://www.jack003.com) found on [jekyllthemes.org](
+  http://jekyllthemes.org/)
 
-* http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/
-  found on https://jekyllthemes.io/
+* [clean blog template](
+  http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
+  found on [jekyllthemes.io](https://jekyllthemes.io)
 
 * [Monica Dinculescu's blog](http://meowni.ca) I knew that one before.
 
