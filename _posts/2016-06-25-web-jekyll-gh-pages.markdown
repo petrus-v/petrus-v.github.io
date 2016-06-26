@@ -106,6 +106,5 @@ docker run -it --rm -v "$PWD:/src" -p 4000:4000 \
             grahamc/jekyll serve -H 0.0.0.0
 ```
 
-As it's my first blog and I didn't know which template to use discover
-jekyll, it takes me a short day to decide, setup, update an existing
+All of this takes me a short day to decide, setup, update an existing
 template and start to write some posts!
