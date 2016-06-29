@@ -25,7 +25,7 @@ Today it's just an idea, a dream... There is no plan, a lot of details
 are not define and hope that writing some blog post will help me to give
 guide lines and focus on that project ;)
 
-My current guides lines are very high level:
+Current guides lines are very high level:
 
 * This thing should fly which we are calling *quadcopter* in this post
 * Expected to fly indoor
@@ -40,5 +40,6 @@ My current guides lines are very high level:
   could change
 
 Other resources about quadcopter swarm (already 4 years ago!):
+
 * [A Swarm of Nano Quadrotors](https://youtu.be/YQIMGV5vtd4)
 * [Making of "Swarm Quadrotors"](https://youtu.be/M1ShuAEIfGw)
