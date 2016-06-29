@@ -23,7 +23,7 @@ This is the kind of things that let me dream *Swarm Quadrotors by
 
 Today it's just an idea, a dream... There is no plan, a lot of details
 are not define and hope that writing some blog post will help me to give
-a red line and focus on that project ;)
+guide lines and focus on that project ;)
 
 My current guides lines are very high level:
 
