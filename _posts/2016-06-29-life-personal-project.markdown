@@ -2,7 +2,7 @@
 layout:     post
 title:      "Autonomous quadcopter fleet"
 subtitle:   "That's my ambitious idea..."
-date:       "2016-06-24"
+date:       "2016-06-29"
 author:     "Pierre Verkest"
 header-img: "img/bg-quadcopter-swarm.jpg"
 ---
