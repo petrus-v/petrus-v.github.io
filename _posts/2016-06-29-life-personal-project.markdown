@@ -13,7 +13,13 @@ quadcopter fleet!
 This is the kind of things that let me dream *Swarm Quadrotors by
 [lexus-int](http://www.lexus-int.com/amazinginmotion/)*:
 
-{% include youtube.html id="uj0v1BgzUdc" %}
+<iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/uj0v1BgzUdc"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
 
 Today it's just an idea, a dream... There is no plan, a lot of details
 are not define and hope that writing some blog post will help me to give
