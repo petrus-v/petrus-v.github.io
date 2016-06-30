@@ -38,6 +38,8 @@ Current guides lines are very high level:
 * quadcopter should memory it's environment and share with others
 * quadcopter should able to avoid contact and assume that is environment
   could change
+* Openess! This project must be based on Open-source hardware and
+  Open-source software!
 
 Other resources about quadcopter swarm (already 4 years ago!):
 
