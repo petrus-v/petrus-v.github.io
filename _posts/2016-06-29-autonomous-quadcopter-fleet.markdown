@@ -22,23 +22,23 @@ This is the kind of things that let me dream *Swarm Quadrotors by
 </iframe>
 
 Today it's just an idea, a dream... There is no plan, a lot of details
-are not define and hope that writing some blog post will help me to give
-guide lines and focus on that project ;)
+are not defined and hope that writing some blog post will help me give
+guidelines and focus on that project ;)
 
-Current guides lines are very high level:
+Current guidelines are very high level:
 
 * This thing should fly which we are calling *quadcopter* in this post
 * Expected to fly indoor
-* Try to use common products available to general public and used by a
+* Try to use common products publicly available and used by a
   lot of people
 * Could be great to create a fleet
-* quadcopter should be autonomous (no planning, no manual command)
+* quadcopter should be autonomous (no planning, no manual commands)
 * quadcopter would received desired state or target task (ie: bring the
   tv pad close to me, show me what's happen in the kitchen...)
-* quadcopter should memory it's environment and share with others
-* quadcopter should able to avoid contact and assume that is environment
+* quadcopter should remember it's environment and share with others
+* quadcopter should able to avoid contacts and assume that its environment
   could change
-* Openess! This project must be based on Open-source hardware and
+* Openness! This project must be based on Open-source hardware and
   Open-source software!
 
 Other resources about quadcopter swarm (already 4 years ago!):
