@@ -13,8 +13,8 @@ Here, I won't explain how to setup your blog using jekyll and *GitHub*'s
 pages, only give the big picture how it works and give some resource
 that was useful for me!
 
-This blog is host on [github pages](https://pages.github.com) that
-service allow to host website for *GitHub*'s projects.
+This blog is hosted on [github pages](https://pages.github.com) that
+service allows to host a website for *GitHub*'s projects.
 
 [Github](https://github.com) is a web-based Git repository hosting
 service and aims developers to collaborate efficiently to build
@@ -40,7 +40,7 @@ To setup every things that can take some times, in fact (as often) the
 most consuming time was to know what I wanted to do! As suggest in
 [Barry Clark's post](https://www.smashingmagazine.com/2014/08/
 build-blog-jekyll-github-pages/) I have started from an existing project
-which was hard to choose. After try a lot of site web I get this
+which was hard to choose. After trying a lot of websites I got this
 short list:
 
 * [Kun Jia's blog](http://www.jack003.com) found on [jekyllthemes.org](
@@ -53,7 +53,7 @@ short list:
 * [Monica Dinculescu's blog](http://meowni.ca) I knew that one before.
 
 After a long hesitation between those 3 templates I've chosen the 2nd
-one as it fit your device (thanks bootstrap and its responsive design)
+one as it fits your device (thanks bootstrap and its responsive design)
 and still quite simple and basic.
 
 By chance to illustrate this blog I've found [Pixabay](
@@ -83,11 +83,11 @@ For information on troubleshooting Jekyll see:
 If you have any questions you can contact us by replying to this email.
 ```
 
-Some information are missing to let you know what to fix exactly. If you
+Some informations are missing to let you know what to fix exactly. If you
 just add a file that will probably fine but if your are setting up your
 website you have to guess which key and file needs to be fixed.
 
-So as I'm not a ruby developer I've choose to use docker container
+So as I'm not a ruby developer I've chosen to use docker container
 to build my blog and find out what's wrong
 
 To build the blog locally from the blog root directory I've used
