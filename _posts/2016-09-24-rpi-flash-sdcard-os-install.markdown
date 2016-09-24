@@ -218,6 +218,45 @@ Device     Boot  Start      End  Sectors  Size Id Type
 /dev/sdb2       133120 31116287 30983168 14,8G 83 Linux
 ```
 
+* Connect to Hypriot
+
+You can connect to you freshly RPI using a keyboard and a screen or I do
+prefer connect my RPi to the network using a wierd cable and connect 
+through ssh [to setup the wifi](http://pierre.verkest.fr/2016/09/24/
+rpi-wifi-setup).
+
+There are several ways to found the affected address IP:
+
+    * connect to your router where the dhcp is running
+    * using nmap ``nmap -sP 192.168.1.10/24``
+    * using arp ``sudo arp -a``
+    * ...
+
+So to connect to hypriot you have following paameters:
+
+* let's says the affected ip address is ``192.168.1.28``
+* Hypriot default user: ``pirate``
+* pirate default password: ``hypriot``
+
+```bash
+$ ssh pirate@192.168.1.28
+pirate@192.168.1.28's password: 
+
+HypriotOS (Debian GNU/Linux 8)
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Fri Sep 16 22:38:15 2016 from 192.168.1.10
+HypriotOS/armv7: pirate@black-pearl in ~
+$ 
+```
+
+that's it!
+
 # install Arch linux ARM on RPI3
 
 At the moment I only leave this [link to archlinux.org documentation](
