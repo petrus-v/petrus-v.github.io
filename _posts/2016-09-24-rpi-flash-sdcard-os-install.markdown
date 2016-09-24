@@ -1,5 +1,6 @@
 ---
 layout:     post
+name:       "Setup hyptiot on RPi"
 title:      "How do I setup my Rpi Os?"
 date:       "2016-09-24"
 author:     "Pierre Verkest"
@@ -222,8 +223,8 @@ Device     Boot  Start      End  Sectors  Size Id Type
 
 You can connect to you freshly RPI using a keyboard and a screen or I do
 prefer connect my RPi to the network using a wierd cable and connect 
-through ssh [to setup the wifi](http://pierre.verkest.fr/2016/09/24/
-rpi-wifi-setup).
+through ssh [to setup the wifi](
+{% post_url 2016-09-24-rpi-wifi-setup %}).
 
 There are several ways to found the affected address IP:
 
