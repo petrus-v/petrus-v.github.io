@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "How do I setup my Rpi Os?"
-date:       "2016-06-30"
+date:       "2016-09-24"
 author:     "Pierre Verkest"
 header-img: "img/bash.png"
 ---
