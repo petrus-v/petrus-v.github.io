@@ -228,10 +228,10 @@ through ssh [to setup the wifi](
 
 There are several ways to found the affected address IP:
 
-    * connect to your router where the dhcp is running
-    * using nmap ``nmap -sP 192.168.1.10/24``
-    * using arp ``sudo arp -a``
-    * ...
+* connect to your router where the dhcp is running
+* using nmap ``nmap -sP 192.168.1.10/24``
+* using arp ``sudo arp -a``
+* ...
 
 So to connect to hypriot you have following paameters:
 
