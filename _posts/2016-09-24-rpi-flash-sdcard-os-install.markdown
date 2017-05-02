@@ -51,11 +51,11 @@ I like to follow that path,
 
 ```bash
 # Choose a version to use on http://blog.hypriot.com/downloads/
-$ export version=v1.0.0
+$ export version=v1.4.0
 # Download the last Hypriot Docker Image for Raspberry Pi
-$ wget https://downloads.hypriot.com/hypriotos-rpi-$version.img.zip
+$ wget https://github.com/hypriot/image-builder-rpi/releases/download/$version/hypriotos-rpi-$version.img.zip
 # Get the checksum 
-$ wget https://downloads.hypriot.com/hypriotos-rpi-$version.img.zip.sha256
+$ wgethttps://github.com/hypriot/image-builder-rpi/releases/download/$version/hypriotos-rpi-$version.img.zip.sha256
 # Make sure image is completly download
 $ sha256sum -c hypriotos-rpi-$version.img.zip.sha256
 # unzip that image
