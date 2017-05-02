@@ -104,3 +104,7 @@ $ ip a s wlan0
        valid_lft forever preferred_lft forever
 
 ```
+
+> **Note**: If you manage to get multiple RPI on the same network you
+> may want to change RPI hostname. Hypriot set the hostname at boot
+> time using ``/boot/device-init.yaml`` config file.
