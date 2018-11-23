@@ -14,7 +14,7 @@ Here I'll track talks and workshop I've given:
   Orléans -
   2018-11-22 -
   CI/CD and Docker -
-  [Slides](https://pierre.verkest.fr/docs/2018-11-22-wild_code_school_orleans_cicd-docker.pdf)
+  [Slides]({{ site.baseurl }}{% link docs/2018-11-22-wild_code_school_orleans_cicd-docker.pdf %})
 
 [comment]: <> (source: https://docs.google.com/presentation/d/1Ax5PRpeIK4DQP8X3YtvYkiRtSThsyjoxedjrYKOpQpk/)
 
