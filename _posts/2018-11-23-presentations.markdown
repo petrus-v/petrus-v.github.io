@@ -5,6 +5,7 @@ title:      "Talks"
 date:       "2018-11-23"
 author:     "Pierre Verkest"
 header-img: "img/bg-mic.jpg"
+permalink:  "talks"
 ---
 
 Here I'll track talks and workshop I've given:
