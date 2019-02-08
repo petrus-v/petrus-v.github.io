@@ -11,6 +11,14 @@ permalink:  "talks"
 Here I'll track talks and workshop I've given:
 
 * Talk -
+  [Lab'O](http://www.le-lab-o.fr/) -
+  Orléans -
+  2018-02-07 -
+  Introduction avant la conférence d'Albert Meige: "En 2033, on ne travaille plus, on transfère !" et de la **table Ronde sur les métiers de demain** -
+  [Slides]({{ site.baseurl }}{% link docs/2019-02-07-le_lab_o-Table-ronde-metiers-demain.pdf %})
+
+
+* Talk -
   [Wild Code School](https://wildcodeschool.fr/orleans/) -
   Orléans -
   2018-11-22 -
