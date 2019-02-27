@@ -11,6 +11,13 @@ permalink:  "talks"
 Here I'll track talks and workshop I've given:
 
 * Talk -
+  [Orléans Tech](https://orleans-tech.com/) -
+  Orléans -
+  2018-02-26 -
+  Holacracy: Un framework d'organisation, retour d'expérience d'une petite ESN -
+  [Slides]({{ site.baseurl }}{% link docs/2019-02-26-orleans_tech-holacracy.pdf %}) by [@Audrey_Braun](https://twitter.com/Audrey_Braun)
+
+* Talk -
   [Lab'O](http://www.le-lab-o.fr/) -
   Orléans -
   2018-02-07 -
