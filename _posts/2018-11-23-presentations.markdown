@@ -11,6 +11,15 @@ permalink:  "talks"
 Here I'll track talks and workshop I've given:
 
 * Talk -
+  [Python fr lyon](TODO) -
+  Lyon -
+  2019-06-26 -
+  Anyblok: Un framework python, retour d'expérience -
+  [Slides]({{ site.baseurl }}{% link docs/2019-06-26-python.fr-anyblok.pdf
+ %}) co-présenté avec son créateur [@jssuzanne](https://twitter.com/jssuzanne)
+ et la participation [@Audrey_Braun](https://twitter.com/Audrey_Braun)
+
+* Talk -
   [Orléans Tech](https://orleans-tech.com/) -
   Orléans -
   2018-02-26 -
