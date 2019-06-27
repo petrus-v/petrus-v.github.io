@@ -11,6 +11,15 @@ permalink:  "talks"
 Here I'll track talks and workshop I've given:
 
 * Talk -
+  [flexjob lyon](https://flexjob.fr/) -
+  Lyon -
+  2019-06-27 -
+  La culture d’entreprise d'Anybox : HOLACRACY
+  co-présenté avec [@Audrey_Braun](https://twitter.com/Audrey_Braun)
+  [Slides]({{ site.baseurl }}{% link docs/2019-06-27-holacracy-flexjob.pdf %})
+  by [@Audrey_Braun](https://twitter.com/Audrey_Braun)
+
+* Talk -
   [AFPYthon lyon](https://twitter.com/python_lyon) -
   Lyon -
   2019-06-26 -
