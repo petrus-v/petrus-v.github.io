@@ -11,7 +11,7 @@ permalink:  "talks"
 Here I'll track talks and workshop I've given:
 
 * Talk -
-  [Python fr lyon](TODO) -
+  [AFPYthon lyon](https://twitter.com/python_lyon) -
   Lyon -
   2019-06-26 -
   Anyblok: Un framework python, retour d'expérience -
