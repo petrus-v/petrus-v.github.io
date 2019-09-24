@@ -11,6 +11,15 @@ permalink:  "talks"
 Here I'll track talks and workshop I've given:
 
 * Talk -
+  [ICAM Nantes](https://www.icam.fr/campus/icam-nantes/) -
+  Nantes -
+  2019-09-19 -
+  Une organisation bienveillante, est-ce possible ?
+  co-présenté avec [@Audrey_Braun](https://twitter.com/Audrey_Braun)
+  [Slides]({{ site.baseurl }}{% link docs/2019-09-19-ICAM.pdf %})
+  by [@Audrey_Braun](https://twitter.com/Audrey_Braun)
+
+* Talk -
   [flexjob lyon](https://flexjob.fr/) -
   Lyon -
   2019-06-27 -
