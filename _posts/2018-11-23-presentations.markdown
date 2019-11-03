@@ -11,6 +11,15 @@ permalink:  "talks"
 Here I'll track talks and workshop I've given:
 
 * Talk -
+  [PyConfr 2019](https://www.pycon.fr) -
+  Bordeaux -
+  2019-11-03 -
+  Épanouissement personnel et collectif dans le monde du développement informatique en télétravail
+  co-présenté avec [@Audrey_Braun](https://twitter.com/Audrey_Braun)
+  [Slides]({{ site.baseurl }}{% link docs/2019-11-03-python.fr-epanouissement.pdf %})
+  by [@Audrey_Braun](https://twitter.com/Audrey_Braun)
+
+* Talk -
   [ICAM Nantes](https://www.icam.fr/campus/icam-nantes/) -
   Nantes -
   2019-09-19 -
