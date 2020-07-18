@@ -40,6 +40,9 @@ on an other distribution like ArchLinux ARM.
 
 ## Install hypriot on RPI3
 
+> **note** (2019-07-18): A [flash script](https://github.com/hypriot/flash) is available to be
+> able to install hypriot on your sd card and setup your wifi with cloud-init file.
+
 You can follow [this post to install Hypriot on your RaspBerry](http://blog.hypriot.com/getting-started-with-docker-and-linux-on-the-raspberry-pi/)
 
 I like to follow that path,

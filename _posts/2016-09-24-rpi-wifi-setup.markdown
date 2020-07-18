@@ -12,6 +12,9 @@ header-img: "img/wifi.png"
 You can find [a documentation to setup wifi on raspberrypi.org](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)
 however I much prefer [the one from debian wiki](https://wiki.debian.org/fr/WiFi/HowToUse#wpa_supplicant)
 
+> **note** (2019-07-18): A [flash script](https://github.com/hypriot/flash) is available to be
+> able to install hypriot on your sd card and setup your wifi with cloud-init file.
+
 First connect to a freshly installed RPI linux console
 I'm writting this blog post right after [setup Hypriot on my RPI 3](
 {% post_url 2016-09-24-rpi-flash-sdcard-os-install %})
@@ -105,6 +108,15 @@ $ ip a s wlan0
 ```
 
 > **Note**: If you manage to get multiple RPI on the same network you
-> may want to change RPI hostname. Hypriot set the hostname at boot
-> time using `/boot/device-init.yaml` config file ([more info on
-> device-init project](https://github.com/hypriot/device-init)).
+> may want to change RPI hostname. HypriotOS (>1.7, before v1.7 it was using
+> `device-init` project) set the hostname at boot
+> time using `/boot/user-data` config file ([more info on
+> cloud-init project](https://cloudinit.readthedocs.io/en/0.7.9/index.html)).
+
+```yaml
+#cloud-config
+
+# Set your hostname here, the manage_etc_hosts will update the hosts file entries as well
+hostname: black-pearl
+manage_etc_hosts: true
+```
