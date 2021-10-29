@@ -11,6 +11,13 @@ permalink:  "talks"
 Here I'll track talks and workshop I've given:
 
 * Talk -
+  [OCA DAYS 2021](https://odoo-community.org/event/oca-days-2021-online-2021-10-28-2021-10-29-128/page/introduction-oca-days-2021-online) -
+  Online -
+  2021-10-29 -
+  Odoo Behavior Driven Development
+  [Slides]({{ site.baseurl }}{% link docs/2021-10-29-odoo-bdd-tests.pdf %})
+
+* Talk -
   [PyConfr 2019](https://www.pycon.fr) -
   Bordeaux -
   2019-11-03 -
