@@ -8,7 +8,13 @@ header-img: "img/bg-mic.jpg"
 permalink:  "talks"
 ---
 
-Here I'll track talks and workshop I've given:
+
+* Talk -
+  [OCA DAYS 2022](https://odoo-community.org/event/oca-days-2022-liege-2022-10-10-2022-10-11-131/track/when-the-time-clock-allows-you-to-accumulate-compensatory-hours-134) -
+  Liège -
+  2022-10-10 -
+  From time clock To days off
+  [Slides]({{ site.baseurl }}{% link docs/2022-10-10-attendance-and-compensatory-hours.pdf %})
 
 * Talk -
   [OCA DAYS 2021](https://odoo-community.org/event/oca-days-2021-online-2021-10-28-2021-10-29-128/page/introduction-oca-days-2021-online) -
@@ -16,6 +22,7 @@ Here I'll track talks and workshop I've given:
   2021-10-29 -
   Odoo Behavior Driven Development
   [Slides]({{ site.baseurl }}{% link docs/2021-10-29-odoo-bdd-tests.pdf %})
+  [Vidéo](https://www.youtube.com/watch?v=WajEuNjmlSI)
 
 * Talk -
   [PyConfr 2019](https://www.pycon.fr) -
