@@ -15,6 +15,15 @@ permalink:  "talks"
   2022-10-10 -
   From time clock To days off
   [Slides]({{ site.baseurl }}{% link docs/2022-10-10-attendance-and-compensatory-hours.pdf %})
+  
+  
+* Talk -
+  Séminaire agilité groupe La Poste -
+  Paris -
+  2022-07-04 -
+  Software craftsmanship / Artisanat du logiciel
+  [Slides]({{ site.baseurl }}{% link docs/2022-07-04-software-craftsmanship.pdf %})
+
 
 * Talk -
   [OCA DAYS 2021](https://odoo-community.org/event/oca-days-2021-online-2021-10-28-2021-10-29-128/page/introduction-oca-days-2021-online) -
