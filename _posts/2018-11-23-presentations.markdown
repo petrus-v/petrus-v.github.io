@@ -10,6 +10,13 @@ permalink:  "talks"
 
 
 * Talk -
+  [PyConFR 2023](https://www.pycon.fr/2023/) -
+  Bordeaux -
+  2023-02-19 -
+  J'ai hacké ma chaudière
+  [Slides]({{ site.baseurl }}{% link docs/2023-02-19-PyConFR.pdf %})
+
+* Talk -
   [OCA DAYS 2022](https://odoo-community.org/event/oca-days-2022-liege-2022-10-10-2022-10-11-131/track/when-the-time-clock-allows-you-to-accumulate-compensatory-hours-134) -
   Liège -
   2022-10-10 -
