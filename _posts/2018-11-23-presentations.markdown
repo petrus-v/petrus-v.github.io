@@ -8,6 +8,51 @@ header-img: "img/bg-mic.jpg"
 permalink:  "talks"
 ---
 
+* Talk -
+  [PyConFR 2024](https://www.pycon.fr/2024/) -
+  Strasbourg -
+  2024-11-02 -
+  À la découverte de la communauté libre autour de l'outil de gestion Odoo
+  [Slides]({{ site.baseurl }}{% link docs/2024-11-02_PyConFR_OCA.pdf %}) co-présenté avec
+  [Virginie Dewulf](https://www.linkedin.com/in/vdewulf/)
+
+* Workshop -
+  [OCA DAYS 2024](https://odoo-community.org/event/oca-days-2024-liege-2024-09-30-2024-10-01-149/track/2-00pm-brainstorm-with-the-community-lets-work-together-to-solve-some-problems-2hrs-319) -
+  Liège -
+  2024-10-01 -
+  Brainstorm with the community - lets work together to solve some problems
+  [Slides]({{ site.baseurl }}{% link docs/2024-10-01-OCA-Days-2024_Brainstorming.pdf %})
+
+* Round table -
+  [OCA DAYS 2024](https://odoo-community.org/event/oca-days-2024-liege-2024-09-30-2024-10-01-149/track/11-50am-round-table-life-of-odoo-integrators-in-the-oca-ecosystem-70mins-318) -
+  Liège -
+  2024-10-01 -
+  Round table: Life of Odoo Integrators in the OCA Ecosystem
+  [Slides]({{ site.baseurl }}{% link docs/2024-10-01-OCA-Days-2024_Roundtable_Life-of-Odoo-Integrators-in-the-OCA-Ecosystem.pdf %})
+  [Vidéo (beginning of the track is not recorded)](https://youtu.be/FpTEMFOZkQg)
+
+* Talk -
+  [OCA DAYS 2024](https://odoo-community.org/event/oca-days-2024-liege-2024-09-30-2024-10-01-149/track/9-30am-git-insides-30mins-282) -
+  Liège -
+  2024-10-01 -
+  GIT Insides
+  [Slides]({{ site.baseurl }}{% link docs/2024-10-01-OCA-Days-2024_GIT.pdf %})
+  [Vidéo](https://youtu.be/VV9n3SdNsJA)
+
+* Talk -
+  [OCA DAYS 2024](https://odoo-community.org/event/oca-days-2024-liege-2024-09-30-2024-10-01-149/track/10-30am-accounting-cutoff-or-how-to-distribute-your-revenues-expenses-30mins-281) -
+  Liège -
+  2024-09-30 -
+  Accounting cutoff or how to distribute your revenues/expenses
+  [Slides]({{ site.baseurl }}{% link docs/2024-09-30-OCA-Days-2024_Cut-off.pdf %})
+  [Vidéo](https://youtu.be/7N39fjX0nBs)
+
+* Talk -
+  [Foodles Tech talks](https://www.foodles.com/) -
+  Online -
+  2024-09-20 -
+  Les Méta classes en python Quésaco ? Comment s'en passer... ou pas !
+  [Slides]({{ site.baseurl }}{% link docs/2024-09-20-Foodles-meta-classes.pdf %})
 
 * Talk -
   [PyConFR 2023](https://www.pycon.fr/2023/) -
